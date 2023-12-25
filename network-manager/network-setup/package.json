@@ -1,0 +1,16 @@
+{
+  "name": "network-setup",
+  "version": "1.0.0",
+  "description": "This Software Create and add overlay network on both server and client node for kdock",
+  "main": "network.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node network.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:kunalGhoshOne/kdock.git"
+  },
+  "author": "Kunal Ghosh",
+  "license": "ISC"
+}
